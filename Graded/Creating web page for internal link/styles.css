@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+.section {
+    margin-top: 50px;
+    padding-top: 50px; /* Offset for sticky header if needed */
+    border-top: 2px solid #ccc;
+}
+nav a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #007bff;
+}
+nav a:hover {
+    text-decoration: underline;
+}
